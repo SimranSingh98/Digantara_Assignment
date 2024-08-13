@@ -1,6 +1,6 @@
 # Satellite Position Tracking and Filtering Assignment
 
-Welcome to the world of space and satellites! In this assignment, you will track satellite positions using Two-Line Element Sets (TLEs) and optimize the processing of satellite data.
+Welcome to the world of space and satellites! In this assignment, you will track satellite positions using Three-Line Element Sets (TLEs) and optimize the processing of satellite data.
 
 ## Overview
 
